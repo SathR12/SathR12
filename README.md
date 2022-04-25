@@ -14,3 +14,5 @@
 - [Pathweaver Interface](https://github.com/SathR12/Pathweaver)
 
 - [Stop Sign Detection](https://github.com/SathR12/Stop-Sign-Detection)
+
+- [PyVision Custom Package](https://github.com/SathR12/PyVision)
