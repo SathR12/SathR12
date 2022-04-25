@@ -7,10 +7,10 @@
 
 ## My Most Notable Projects
 
-- [2022 FRC Vision][https://github.com/SathR12/2022-FRC-Vision]
+- [2022 FRC Vision] (https://github.com/SathR12/2022-FRC-Vision).
 
-- (Vision scripts for 2020 FRC Game)[https://github.com/SathR12/2020-FRC-Vision]
+- [2020 FRC Game] (https://github.com/SathR12/2020-FRC-Vision)
 
-- (Pathweaver Interface)[https://github.com/SathR12/Pathweaver]
+- [Pathweaver Interface] (https://github.com/SathR12/Pathweaver)
 
-- (Stop Sign Detection)[https://github.com/SathR12/Stop-Sign-Detection]
+- [Stop Sign Detection] (https://github.com/SathR12/Stop-Sign-Detection)
