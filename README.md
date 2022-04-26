@@ -1,4 +1,4 @@
-# Hello, I'm Sathya and I'm part of the FRC 2601 Vision Team
+## Hello 👋
 
 
 ## Stats
