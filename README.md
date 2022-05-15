@@ -1,4 +1,4 @@
-# Hello 👋, I'm Sathya
+# Hello, I'm Sathya
 
 
 ## Stats
