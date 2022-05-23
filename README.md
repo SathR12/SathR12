@@ -8,7 +8,7 @@
 
 - [2022 FRC Vision](https://github.com/SathR12/2022-FRC-Vision)
 
-- [2020 FRC Game](https://github.com/SathR12/2020-FRC-Vision)
+- [2020 FRC Vision](https://github.com/SathR12/2020-FRC-Vision)
 
 - [Pathweaver Interface](https://github.com/SathR12/Pathweaver)
 
