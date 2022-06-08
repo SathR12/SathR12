@@ -1,6 +1,3 @@
-# Hello, I'm Sathya
-
-
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SathR12&show_icons=true&theme=dark) 
 
