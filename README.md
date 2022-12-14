@@ -1,6 +1,3 @@
-## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SathR12&show_icons=true&theme=dark) 
-
 ## My Most Notable Projects
 
 - [2022 FRC Vision](https://github.com/SathR12/2022-FRC-Vision)
