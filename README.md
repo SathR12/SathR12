@@ -1,4 +1,4 @@
-## My Most Notable Projects
+## My Main Projects
 
 - [2022 FRC Vision](https://github.com/SathR12/2022-FRC-Vision)
 
