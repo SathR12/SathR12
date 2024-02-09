@@ -4,7 +4,7 @@
 
 - [2020 FRC Vision](https://github.com/SathR12/2020-FRC-Vision)
 
-- [Immersive Computing Lab](https://github.com/SathR12/Immersive-Computing-Lab)
+- [NYU Immersive Computing Lab Research](https://github.com/SathR12/Immersive-Computing-Lab)
 
 - [Stop Sign Detection](https://github.com/SathR12/Stop-Sign-Detection)
 
